@@ -3,8 +3,6 @@ Data acquisition  (DAQ) system for studying ultrasonic waves and phase shift due
 
 Markdown
 
-# ThermoSonic-DAQ: Ultrasonic Data Acquisition System
-
 A comprehensive Data Acquisition (DAQ) system designed to study the effect of temperature on the propagation of ultrasonic waves in solid materials (e.g., aluminum). This project consists of embedded firmware (C/HAL) for the STM32G4 microcontroller and a desktop GUI application (Python) for real-time data visualization and automated logging.
 
 ## 🚀 Key Features
