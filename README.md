@@ -43,6 +43,4 @@ Built using: `tkinter`, `pyserial`, `matplotlib`, `numpy`, and `pandas`.
 Solves the data stream desynchronization problem by implementing a serial port state machine capable of distinguishing between ASCII status messages and raw, binary ADC memory dumps.
 <img width="1002" height="737" alt="GUI: 2026-05-18 203613" src="https://github.com/user-attachments/assets/2964e5b0-c12b-496e-9523-d168354554f6" />
 
----
 
-## 🔧 Measurement Station 
