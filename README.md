@@ -1,4 +1,3 @@
-<img width="1791" height="1106" alt="700252626_922670150824282_3397528091928119968_n" src="https://github.com/user-attachments/assets/53928efb-9db8-40e2-943e-86d831eb45fd" />
 # damage-detection-with-ultrasonic-waves-STM32
 Data acquisition  (DAQ) system for studying ultrasonic waves and phase shift due to temperature or damage. Build with STM32G4 (DMA, 2MSps) and python gui with real time plotting and exel export
 
