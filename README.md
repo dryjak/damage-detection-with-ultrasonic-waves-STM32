@@ -1,3 +1,4 @@
+<img width="1791" height="1106" alt="700252626_922670150824282_3397528091928119968_n" src="https://github.com/user-attachments/assets/53928efb-9db8-40e2-943e-86d831eb45fd" />
 # damage-detection-with-ultrasonic-waves-STM32
 Data acquisition  (DAQ) system for studying ultrasonic waves and phase shift due to temperature or damage. Build with STM32G4 (DMA, 2MSps) and python gui with real time plotting and exel export
 
@@ -43,4 +44,5 @@ Built using: `tkinter`, `pyserial`, `matplotlib`, `numpy`, and `pandas`.
 Solves the data stream desynchronization problem by implementing a serial port state machine capable of distinguishing between ASCII status messages and raw, binary ADC memory dumps.
 <img width="1002" height="737" alt="GUI: 2026-05-18 203613" src="https://github.com/user-attachments/assets/2964e5b0-c12b-496e-9523-d168354554f6" />
 
+<img width="1791" height="1106" alt="700252626_922670150824282_3397528091928119968_n" src="https://github.com/user-attachments/assets/87c88cd1-4bc3-49a0-b270-a0137d334886" />
 
